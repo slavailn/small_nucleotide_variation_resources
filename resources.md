@@ -18,6 +18,7 @@
 4. [Small insertion and deletions (InDels) in human genomes](https://academic.oup.com/hmg/article/19/R2/R131/640505)
 5. [SNP discovery through next geneartion sequencing and its application](https://www.hindawi.com/journals/ijpg/2012/831460/)
 6. [Sample size and statistical power calculations in GWAS](https://www.hindawi.com/journals/ijpg/2012/831460/)
+7. [Genome-Wide Association Studies: A Primer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4181332/)
 
 ### Lectures and slides
 1. [Lecture on human genomics and genome informatics](https://powcs.med.unsw.edu.au/sites/default/files/powcs/page/Background-Session1_0.pdf)
