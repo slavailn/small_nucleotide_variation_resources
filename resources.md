@@ -13,6 +13,10 @@
 
 1. [PSB 2011 Tutorial: Personal Genomics: good, but dated review of variant calling](http://www.cs.bilkent.edu.tr/~calkan/teaching/genomics/reading/PSB_PersonalGenomics_2011_tutorial.pdf)
 
+### Lectures and slides
+1. [Lecture on human genomics and genome informatics](https://powcs.med.unsw.edu.au/sites/default/files/powcs/page/Background-Session1_0.pdf)
+2. 
+
 
 
 
