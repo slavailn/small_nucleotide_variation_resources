@@ -25,7 +25,7 @@
 3. [Genetic variation and next generation sequencing](https://learngenomics.dev/docs/next-generation-sequencing/)
 4. [Detecting genetic variation video lecture. Part 1](https://www.youtube.com/watch?v=2ro9WCOpQqI)
 5. [Detecting genetic variation video lecture. Part 2](https://www.youtube.com/watch?v=FY9t3sQMlJw)
-6. 
+
 
 
 
