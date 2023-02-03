@@ -14,6 +14,7 @@
 1. [PSB 2011 Tutorial: Personal Genomics: good, but dated review of variant calling](http://www.cs.bilkent.edu.tr/~calkan/teaching/genomics/reading/PSB_PersonalGenomics_2011_tutorial.pdf)
 2. [GWAS and population genetics: a primer](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005485)
 3. [GWAS explained - nature paper](https://learngenomics.dev/docs/next-generation-sequencing/)
+4. [Small insertion and deletions (InDels) in human genomes](https://academic.oup.com/hmg/article/19/R2/R131/640505)
 
 ### Lectures and slides
 1. [Lecture on human genomics and genome informatics](https://powcs.med.unsw.edu.au/sites/default/files/powcs/page/Background-Session1_0.pdf)
