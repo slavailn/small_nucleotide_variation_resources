@@ -23,6 +23,9 @@
 1. [Lecture on human genomics and genome informatics](https://powcs.med.unsw.edu.au/sites/default/files/powcs/page/Background-Session1_0.pdf)
 2. [Intro to genomics](https://nursing.wayne.edu/ohr/f_luca_intro_to_genomics_111020-opt.pdf)
 3. [Genetic variation and next generation sequencing](https://learngenomics.dev/docs/next-generation-sequencing/)
+4. [Detecting genetic variation video lecture. Part 1](https://www.youtube.com/watch?v=2ro9WCOpQqI)
+5. [Detecting genetic variation video lecture. Part 2](https://www.youtube.com/watch?v=FY9t3sQMlJw)
+6. 
 
 
 
