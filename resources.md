@@ -15,7 +15,7 @@
 
 ### Lectures and slides
 1. [Lecture on human genomics and genome informatics](https://powcs.med.unsw.edu.au/sites/default/files/powcs/page/Background-Session1_0.pdf)
-2. 
+2. [Intro to genomics](https://nursing.wayne.edu/ohr/f_luca_intro_to_genomics_111020-opt.pdf)
 
 
 
